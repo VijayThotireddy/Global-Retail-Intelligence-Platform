@@ -60,7 +60,7 @@ This project solves these challenges using modern Data Analytics tools.
 
 <p align="center">
 
-<img src="Docs/WorkflowImage.png" width="900">
+<img src="Docs/Workflow Image.png" width="900">
 
 </p>
 
@@ -246,25 +246,25 @@ The dashboard consists of **4 interactive pages**.
 
 ## Executive Dashboard
 
-![Executive](screenshots/executive_dashboard.png)
+![Executive](images/Page-1.png)
 
 ---
 
 ## Customer Analytics
 
-![Customer](screenshots/customer_analytics.png)
+![Customer](images/Page-2.png)
 
 ---
 
 ## Product & Profit Analytics
 
-![Product](screenshots/product_profit.png)
+![Product](images/Page-3.png)
 
 ---
 
 ## Market & Logistics
 
-![Market](screenshots/market_logistics.png)
+![Market](Images/Page-4.png)
 
 ---
 
