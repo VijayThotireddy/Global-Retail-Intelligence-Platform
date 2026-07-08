@@ -60,7 +60,7 @@ This project solves these challenges using modern Data Analytics tools.
 
 <p align="center">
 
-<img src="Docs/Workflow Image.png" width="900">
+<img src="Docs/WorkflowImage.png" width="900">
 
 </p>
 
@@ -264,7 +264,7 @@ The dashboard consists of **4 interactive pages**.
 
 ## Market & Logistics
 
-![Market](Images/Page-4.png)
+![Market](images/Page-4.png)
 
 ---
 
