@@ -50,7 +50,7 @@ This project solves these challenges using modern Data Analytics tools.
 
 <p align="center">
 
-<img src="docs/architecture.png" width="900">
+<img src="Docs/Architecture.png" width="900">
 
 </p>
 
@@ -60,7 +60,7 @@ This project solves these challenges using modern Data Analytics tools.
 
 <p align="center">
 
-<img src="docs/workflow.png" width="900">
+<img src="Docs/WorkflowImage.png" width="900">
 
 </p>
 
